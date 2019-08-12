@@ -1,2 +1,2 @@
 # DevOps
-All about DevOps &amp; Tools
+All about Cloud, DevOps & Tools
